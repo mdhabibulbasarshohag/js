@@ -1,4 +1,4 @@
-// problem numbers 1
+//-------------------------------------------- problem numbers 1
 
 function seerToMon(seer) {
     let monQuantity = 40;
@@ -13,7 +13,11 @@ console.log(totalMon);
 
 //result : 3;
 
-// problem numbers 2
+
+
+
+
+// ------------------------------------------problem numbers 2
 
 
 function totalSales(shirt, pant, shoe) {
@@ -48,7 +52,7 @@ console.log(totalSalesPrice);
 
 //result : 2900;
 
-// problem numbers 3
+// --------------------------------problem numbers 3
 
 
 function deliveryCost(product) {
@@ -84,14 +88,14 @@ function deliveryCost(product) {
     }
 }
 
-let totalDeliveryCost = deliveryCost(230)
+let totalDeliveryCost = deliveryCost(230);
 console.log(totalDeliveryCost);
 
 //result : 19500;
 
 
 
-// problem numbers 4
+// -------------------------------------problem numbers 4
 
 function perfectFriend(friends) {
     // my friends name 
